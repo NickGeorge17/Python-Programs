@@ -1,2 +1,1 @@
-These are some of my more impressive python programs I've wrote during my studies. It's a small portion of them but these are the ones I want shown off on my Linkden.
-I hope you enjoy looking at these! If you want any of the text files just ask.
+I'm excited to share a few of the Python programs I developed during my studies. These are some of the programs I'm proud of, I selected these to showcase my skills. I hope you'll enjoy taking a look at them and getting a sense of my diversity of abilities. If you'd like to review any more code, please don't hesitate to ask. Thank you for your interest!
